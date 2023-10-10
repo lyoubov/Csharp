@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_5\\task_5.csproj": {}
+    "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_05\\task_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_5\\task_5.csproj": {
+    "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_05\\task_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_5\\task_5.csproj",
+        "projectUniqueName": "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_05\\task_5.csproj",
         "projectName": "task_5",
-        "projectPath": "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_5\\task_5.csproj",
+        "projectPath": "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_05\\task_5.csproj",
         "packagesPath": "C:\\Users\\Любаша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_5\\obj\\",
+        "outputPath": "C:\\Users\\Любаша\\Desktop\\Разработчик\\С_шарп_Семинары\\task_05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Любаша\\AppData\\Roaming\\NuGet\\NuGet.Config"

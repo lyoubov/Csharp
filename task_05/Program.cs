@@ -9,4 +9,4 @@ int Number = Convert.ToInt32(Console.ReadLine());
 
 for (int i = -Number; i < Number; i = i + 1)
 
-Console.Write(i + " ");
+Console.Write(i ++ " ");
