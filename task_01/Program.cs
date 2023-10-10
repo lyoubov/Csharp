@@ -7,11 +7,11 @@ int NumberА = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число 2: "); 
 int NumberB = Convert.ToInt32(Console.ReadLine());
 
-if (NumberА == NumberА * NumberА)
+if (NumberА == NumberB * NumberB)
 {
-    System.Console.WriteLine("Не квадрат: "); 
+    System.Console.WriteLine("Квадрат: "); 
 }
 else
 {
-    System.Console.WriteLine("это  квадрат: ");
+    System.Console.WriteLine("Не квадрат: ");
 }
