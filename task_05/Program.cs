@@ -4,9 +4,9 @@
 2 -> " -2, -1, 0, 1, 2"
 */
 
-Console.WriteLine("Введите число Number: "); 
+Console.WriteLine("Введите число Number: ");
 int Number = Convert.ToInt32(Console.ReadLine());
 
-for (int i = -Number; i < Number; i = i + 1)
+for (int i = -Number; i <= Number; i = i + 1)
 
-Console.Write(i + " ");
+    Console.Write(i + " ");
