@@ -1,0 +1,15 @@
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\task_011_.csproj.AssemblyReference.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\task_011_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\task_011_.AssemblyInfoInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\task_011_.AssemblyInfo.cs
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\task_011_.csproj.CoreCompileInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\bin\Debug\net6.0\task_011_.exe
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\bin\Debug\net6.0\task_011_.deps.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\bin\Debug\net6.0\task_011_.runtimeconfig.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\bin\Debug\net6.0\task_011_.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\bin\Debug\net6.0\task_011_.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\task_011_.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\refint\task_011_.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\task_011_.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\task_011_.genruntimeconfig.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_011_\obj\Debug\net6.0\ref\task_011_.dll

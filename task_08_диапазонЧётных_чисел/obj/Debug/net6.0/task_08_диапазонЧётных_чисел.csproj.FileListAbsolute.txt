@@ -1,0 +1,15 @@
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\bin\Debug\net6.0\task_08_диапазонЧётных_чисел.exe
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\bin\Debug\net6.0\task_08_диапазонЧётных_чисел.deps.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\bin\Debug\net6.0\task_08_диапазонЧётных_чисел.runtimeconfig.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\bin\Debug\net6.0\task_08_диапазонЧётных_чисел.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\bin\Debug\net6.0\task_08_диапазонЧётных_чисел.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\task_08_диапазонЧётных_чисел.csproj.AssemblyReference.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\task_08_диапазонЧётных_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\task_08_диапазонЧётных_чисел.AssemblyInfoInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\task_08_диапазонЧётных_чисел.AssemblyInfo.cs
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\task_08_диапазонЧётных_чисел.csproj.CoreCompileInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\task_08_диапазонЧётных_чисел.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\refint\task_08_диапазонЧётных_чисел.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\task_08_диапазонЧётных_чисел.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\task_08_диапазонЧётных_чисел.genruntimeconfig.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_08_диапазонЧётных_чисел\obj\Debug\net6.0\ref\task_08_диапазонЧётных_чисел.dll

@@ -1,0 +1,15 @@
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\bin\Debug\net6.0\task_013_нет_третьей_цифры.exe
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\bin\Debug\net6.0\task_013_нет_третьей_цифры.deps.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\bin\Debug\net6.0\task_013_нет_третьей_цифры.runtimeconfig.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\bin\Debug\net6.0\task_013_нет_третьей_цифры.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\bin\Debug\net6.0\task_013_нет_третьей_цифры.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\task_013_нет_третьей_цифры.csproj.AssemblyReference.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\task_013_нет_третьей_цифры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\task_013_нет_третьей_цифры.AssemblyInfoInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\task_013_нет_третьей_цифры.AssemblyInfo.cs
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\task_013_нет_третьей_цифры.csproj.CoreCompileInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\task_013_нет_третьей_цифры.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\refint\task_013_нет_третьей_цифры.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\task_013_нет_третьей_цифры.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\task_013_нет_третьей_цифры.genruntimeconfig.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_013_третьей_цифры_нет_есть\obj\Debug\net6.0\ref\task_013_нет_третьей_цифры.dll
