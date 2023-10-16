@@ -18,4 +18,4 @@ double squareY = Math.Pow(BY - AY, 2);
 
 double rootXY = Math.Sqrt(squareX + squareY);
 
-System.Console.WriteLine(rootXY);
+System.Console.WriteLine(Math.Round(rootXY, 2));
