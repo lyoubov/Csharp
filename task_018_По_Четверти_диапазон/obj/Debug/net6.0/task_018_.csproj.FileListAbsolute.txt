@@ -1,0 +1,15 @@
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\task_018_.csproj.AssemblyReference.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\task_018_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\task_018_.AssemblyInfoInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\task_018_.AssemblyInfo.cs
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\task_018_.csproj.CoreCompileInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\bin\Debug\net6.0\task_018_.exe
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\bin\Debug\net6.0\task_018_.deps.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\bin\Debug\net6.0\task_018_.runtimeconfig.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\bin\Debug\net6.0\task_018_.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\bin\Debug\net6.0\task_018_.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\task_018_.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\refint\task_018_.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\task_018_.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\task_018_.genruntimeconfig.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_018_\obj\Debug\net6.0\ref\task_018_.dll
