@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task_022_Таблица_Квадратов_1_N/1.0.0": {
+        "runtime": {
+          "task_022_Таблица_Квадратов_1_N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task_022_Таблица_Квадратов_1_N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

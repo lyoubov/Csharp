@@ -1,0 +1,15 @@
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\bin\Debug\net6.0\task_022_Таблица_Квадратов_1_N.exe
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\bin\Debug\net6.0\task_022_Таблица_Квадратов_1_N.deps.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\bin\Debug\net6.0\task_022_Таблица_Квадратов_1_N.runtimeconfig.json
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\bin\Debug\net6.0\task_022_Таблица_Квадратов_1_N.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\bin\Debug\net6.0\task_022_Таблица_Квадратов_1_N.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\task_022_Таблица_Квадратов_1_N.csproj.AssemblyReference.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\task_022_Таблица_Квадратов_1_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\task_022_Таблица_Квадратов_1_N.AssemblyInfoInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\task_022_Таблица_Квадратов_1_N.AssemblyInfo.cs
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\task_022_Таблица_Квадратов_1_N.csproj.CoreCompileInputs.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\task_022_Таблица_Квадратов_1_N.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\refint\task_022_Таблица_Квадратов_1_N.dll
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\task_022_Таблица_Квадратов_1_N.pdb
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\task_022_Таблица_Квадратов_1_N.genruntimeconfig.cache
+C:\Users\Любаша\Desktop\Разработчик\С_шарп_Семинары\task_022_Таблица_Квадратов_1_N\obj\Debug\net6.0\ref\task_022_Таблица_Квадратов_1_N.dll
