@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task_020_Расстояние_по_2м_точкам/1.0.0": {
+        "runtime": {
+          "task_020_Расстояние_по_2м_точкам.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task_020_Расстояние_по_2м_точкам/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
