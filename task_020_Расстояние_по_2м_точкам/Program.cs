@@ -13,9 +13,9 @@ System.Console.WriteLine("Введите для точки В (х;у): ");
 int BX = Convert.ToInt32(Console.ReadLine());
 int BY = Convert.ToInt32(Console.ReadLine());
 
-double squareX = Math.Pow(BX - AX, 2);    // возведение в степень
+double squareX = Math.Pow(BX - AX, 2);              // возведение в степень
 double squareY = Math.Pow(BY - AY, 2);
 
-double rootXY = Math.Sqrt(squareX + squareY);
+double rootXY = Math.Sqrt(squareX + squareY);       // корень квадратный
 
-System.Console.WriteLine(Math.Round(rootXY, 2));
+System.Console.WriteLine(Math.Round(rootXY, 2));    // округление
